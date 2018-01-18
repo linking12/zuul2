@@ -16,5 +16,10 @@
 			<artifactId>zuul2-core</artifactId>
 			<version>${project.version}</version>
 		</dependency>
+		<dependency>
+			<groupId>com.netflix.eureka</groupId>
+			<artifactId>eureka-client</artifactId>
+			<version>1.8.6</version>
+		</dependency>
 	</dependencies>
 </project>
